@@ -1,1 +1,1 @@
-Jogo para adivinhar o número aleátorio com reconhecimento de voz.
+Jogo para adivinhar número aleátorio usando reconhecimento de voz.
